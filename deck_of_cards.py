@@ -29,6 +29,7 @@ class Card:
         self.suit = suit
 
     
+    
 
 
 #iterate through values and cards, creating deck
